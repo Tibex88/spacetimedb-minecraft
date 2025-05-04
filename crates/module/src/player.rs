@@ -208,7 +208,6 @@ impl StdbServerPlayer {
 
     /// Send a packet to this player.
     // pub fn send(&self, packet: OutPacket) {
-    //     // println!("[NET] Sending packet {packet:?}");
     //     self.net.send(self.client, packet);
     // }
 
